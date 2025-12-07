@@ -1,0 +1,7 @@
+{
+  "name": "DEVLOPED BY ANSH RAJ:- JARVIS - AI Assistant",
+  "description": "An advanced, futuristic voice-interactive assistant powered by Gemini Live API. Features real-time voice processing and a holographic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
